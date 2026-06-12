@@ -6,6 +6,7 @@
 <p align="center">
 🎓 B.Tech Artificial Intelligence & Data Science <br>
 🏫 KIT - Kalaignarkarunanidhi Institute of Technology <br>
+🏆 CGPA: 9.0/10
 📍 Coimbatore, Tamil Nadu, India
 </p>
 
@@ -16,7 +17,7 @@
 - 🌱 Currently learning Machine Learning, MERN Stack & AI
 - 💻 Passionate about Web Development and Data Science
 - 🏆 Academic Star Award Recipient
-- 🔥 Solved 1000+ coding problems across platforms
+- 🔥 Solved 1050+ coding problems across LeetCode, CodeChef & Codeforces
 - 🎯 Aspiring AI Engineer & Software Developer
 
 ---
